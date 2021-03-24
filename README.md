@@ -1,5 +1,8 @@
 # face-recognition
-face recognition  with resnet18，resnet50 and resnet 152.  
+## The competition's baseline and data can be download from the url.
+链接：https://pan.baidu.com/s/1jYWaFjhGEC1zxcWw6SVl5Q 
+提取码：gu09 
+## Face recognition  with resnet18，resnet50 and resnet 152.  
 The dataset is very small, so it is really easy to overfitting   
 I use some tricks to reduce the effect of overfitting, such as dropout, regularization and model intergration.  
 Of course, there are some preprocessing operations for images.  
